@@ -10,7 +10,8 @@
 
 
 #### A visual
-<img height="10%" width="80%" alt="hdma" src="https://www.google.com/search?q=doctors+with+paper+work&rlz=1C5CHFA_enUS967US968&hl=en&sxsrf=ALiCzsYXCvbS1q0swY3kRzkzARhCG6lrAg:1665266908940&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjZ5cDU0tH6AhXpK0QIHW4mChgQ_AUoAXoECAEQAw&biw=1440&bih=764&dpr=2#imgrc=FHn2FvzqgCKfpM"> 
+<img height="10%" width="80%" alt="Doctor frustrated over paperwork" src="https://www.breg.com/wp-content/uploads/2018/05/doctor-paperwork-frustrated.jpg"> 
+(source: https://www.breg.com/) 
 
 
 #### Hackathon Theme(s) (check a box(es))
