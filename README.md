@@ -10,9 +10,7 @@
 
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/Hackathon-Promot-Img-1.png?raw=true "Big Data Hackathon for San Diego 2022")  
-https://www.google.com/search?q=doctors+with+paper+work&rlz=1C5CHFA_enUS967US968&hl=en&sxsrf=ALiCzsYXCvbS1q0swY3kRzkzARhCG6lrAg:1665266908940&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjZ5cDU0tH6AhXpK0QIHW4mChgQ_AUoAXoECAEQAw&biw=1440&bih=764&dpr=2#imgrc=FHn2FvzqgCKfpM
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
+<img height="10%" width="80%" alt="hdma" src="https://www.google.com/search?q=doctors+with+paper+work&rlz=1C5CHFA_enUS967US968&hl=en&sxsrf=ALiCzsYXCvbS1q0swY3kRzkzARhCG6lrAg:1665266908940&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjZ5cDU0tH6AhXpK0QIHW4mChgQ_AUoAXoECAEQAw&biw=1440&bih=764&dpr=2#imgrc=FHn2FvzqgCKfpM"> 
 
 
 #### Hackathon Theme(s) (check a box(es))
